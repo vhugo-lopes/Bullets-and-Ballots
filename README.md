@@ -13,7 +13,7 @@ Creating_demographic_dataset: R code for creating the dataset
 
 Raw_data: open-source datasets downloaded from TSE, with the information used to construct demographic_data 
 
-# Electoral_data Folder 
+## Electoral_data Folder 
 geocoded_polling_stations: Daniel Hidalgo's open-source dataset with the coordinates of polling stations in Brazil (csv) 
 
 ### RJ 
