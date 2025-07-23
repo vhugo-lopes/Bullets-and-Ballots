@@ -56,7 +56,7 @@ ocorrencias_PE: extracted data with gunshot occurrences for Greater Recife (csv)
 ocorrencias_RJ:  extracted data with gunshot occurrences for Greater Rio de Janeiro (csv)
 
 ## Regressions_BalanceCheck_Maps 
-R code for final cleaning, crossing different data, building datasets by polling station with all relevant variables (RJ_ALL_VARIABLES.csv and PE_ALL_VARIABLES.csv), carrying out regressions from sections 5 and 6, doing balance checks, and drawing maps.
+R code for final cleaning (spatial analysis, counts, and creation of treatment variables), crossing different data, building datasets by polling station with all relevant variables (RJ_ALL_VARIABLES.csv and PE_ALL_VARIABLES.csv), carrying out regressions from sections 5 and 6, doing balance checks, and drawing maps.
 
 ## Descriptive Analysis 
 R code for drawing figures 1, 2 and 3.
