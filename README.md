@@ -1,5 +1,7 @@
 # Bullets-and-Ballots
-Replication files for UChicago MAPSS Thesis Research
+MAPSS Thesis Research Project
+
+Due to GitHub's size limitations, the full replication files are hosted externally:
 
 ## Maps Folder 
 Shape files used for drawing maps for Results Section. 
