@@ -41,3 +41,26 @@ PE_POLLING_VOTES_2022: dataset for 2022 polling stations' electoral data, includ
 PE_panel: dataset for polling stations' electoral data in a panel structure (csv)
 
 Data_cleaning: R code for creating the above 4 datasets
+
+# FogoCruzado_Gunshot
+
+gunshots: cleaned dataset with the dates and coordinates of occurrences for Greater Rio de Janeiro and Recife (csv)
+
+Data_cleaning: R code used to create the above dataset from the data extracted from Fogo Cruzado official API
+
+## Raw_data 
+FogoCruzado_API_Code: Jupyter Notebook file with Python code used to extract data from Fogo Cruzado's API
+
+ocorrencias_PE: extracted data with gunshot occurrences for Greater Recife (csv)
+
+ocorrencias_RJ:  extracted data with gunshot occurrences for Greater Rio de Janeiro (csv)
+
+# Regressions_BalanceCheck_Maps 
+R code for final cleaning, crossing different data, building datasets by polling station with all relevant variables (RJ_ALL_VARIABLES.csv and PE_ALL_VARIABLES.csv), carrying out regressions from sections 5 and 6, doing balance checks, and drawing maps.
+
+# Descriptive Analysis 
+R code for drawing figures 1, 2 and 3.
+
+# Discontinuity Graphs 
+R code for drawing figure 4
+
