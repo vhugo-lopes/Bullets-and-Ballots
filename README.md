@@ -1,7 +1,7 @@
 # Bullets-and-Ballots
 MAPSS Thesis Research Project
 
-Due to GitHub's size limitations, the full replication files are hosted externally:
+Due to GitHub's size limitations, the full replication files are hosted externally: https://drive.google.com/file/d/1V9dcbQNzy9jGd_9ZboptrK-V__Jf_veQ/view?usp=drive_link
 
 ## Maps Folder 
 Shape files used for drawing maps for Results Section. 
